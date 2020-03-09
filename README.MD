@@ -83,3 +83,10 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Juan   | Ochoa    | 1053865181 |
 | Diego  | Vargas   | 1053865182 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
